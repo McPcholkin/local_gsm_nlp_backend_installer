@@ -1,6 +1,6 @@
 # LocalGsmNlpBackend installer for magisk
 
-Just install LocalGsmNlpBackend as system-less app
+Just install [LocalGsmNlpBackend 0.0.1.4](https://f-droid.org/en/packages/org.gfd.gsmlocation/) as system app
 
 ## How to make magisk module:
 - Clone repo (or download as zip)

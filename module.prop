@@ -1,6 +1,6 @@
 id=local_gsm_nlp_backend_installer
-name=LocalGsmNlpBackend Installer
-version=Ver: 1
-versionCode=1
+name=LocalGsmNlpBackend 0.0.1.4
+version=Ver: 0.0.1.4
+versionCode=14
 author=microG project, n76, McPcholkin
 description=Install LocalGsmNlpBackend to system
